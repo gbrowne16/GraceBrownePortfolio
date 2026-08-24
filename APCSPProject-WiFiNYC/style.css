@@ -1,0 +1,26 @@
+body{
+    font-family: monospace;
+    background-color: rgb(201, 215, 247);
+    font-weight: bold;
+    h1{
+        font-weight: bold;
+        font-size: 30px;
+    }
+  }
+  
+  .outputBox1{
+    min-height: 80px;
+    width: 60%;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 5px;
+    
+  }
+  
+  button{
+    background-color: rgb(93, 105, 236);
+    padding: 10px;
+    font-family: monospace;
+    border: none;
+    margin-bottom: 10px;
+  }
